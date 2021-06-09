@@ -1,5 +1,7 @@
 # flux-get-started
 
+[![CIS](https://app.demo.soluble.cloud/api/v1/public/badges/662712e5-2e34-40bc-b5d2-b50a1ebf3d52.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/flux-get-started)  [![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/00ef98b7-cdb0-4caa-983a-5d9e78b6b46e.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/flux-get-started)  
+
 [![CircleCI](https://circleci.com/gh/fluxcd/flux-get-started.svg?style=svg)](https://circleci.com/gh/fluxcd/flux-get-started)
 
 We published a step-by-step run-through on how to use Flux and Helm Operator [over
